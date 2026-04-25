@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi 👋, I'm Ankita Arya 👋
 
-<!--
+<!-- Somewhere between curiosity and code, I build things.
+Always experimenting, always learning, always improving.
 **arya-ankita/arya-ankita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
