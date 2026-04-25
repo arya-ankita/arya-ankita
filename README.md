@@ -1,14 +1,14 @@
 ## Hi 👋, I'm Ankita Arya 👋
 
-Somewhere between curiosity and code, I build things.
-Always experimenting, always learning, always improving.
+Somewhere between curiosity and code, I build things. <br>
+Always experimenting, always learning, always improving. 
 
-🔭 Currently building: projects that help me learn and improve
-🌱 Exploring: new technologies and better ways to write code
-👯 Open to: collaborating on interesting and meaningful ideas
-🤔 Figuring out: how to level up my problem-solving skills
-💬 Let’s talk about: tech, coding, and anything interesting
-⚡ Fun fact: I enjoy breaking things just to understand how they work
+🔭 Currently building: projects that help me learn and improve <br>
+🌱 Exploring: new technologies and better ways to write code <br>
+👯 Open to: collaborating on interesting and meaningful ideas <br>
+🤔 Figuring out: how to level up my problem-solving skills <br>
+💬 Let’s talk about: tech, coding, and anything interesting <br>
+⚡ Fun fact: I enjoy breaking things just to understand how they work <br>
 
 ## 💻 Tech Stack:
 
